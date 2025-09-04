@@ -1,5 +1,7 @@
 ---
 title: Alex and Simmo are forming a group house!
+aliases:
+  - Home Page
 ---
 - Hello! 
 - We're Alex and Simmo and we're looking to form a group house in Oxford, UK
