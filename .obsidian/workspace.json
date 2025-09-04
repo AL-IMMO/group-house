@@ -177,8 +177,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98f1756b6bcfc34f",
+  "active": "beb0a2d9e8635508",
   "lastOpenFiles": [
+    "source/quartz/static/icon.png",
+    "source/quartz/static/icon.jpeg",
+    "source/quartz/static/favicon.jpeg",
     "source/content/files",
     "source/content/files/index-1756975604475.webp",
     "source/content/Quick add/Mansplaining David Foster Wallace 2025-09-02.md",
@@ -216,14 +219,11 @@
     "source/content/📎 Files/Images/misc/Tactically clever, strategically stupid-1756395306154.webp",
     "source/content/📎 Files/Voice notes/signal-2025-08-26-230430.mp3",
     "source/content/📎 Files/Images/misc/What could the Alexnaissance look like_-1756139071114.webp",
-    "source/content/📎 Files/Images/misc/What could the Alexnaissance look like_-1756138922303.webp",
-    "source/content/📎 Files/Images/misc/What could the Alexnaissance look like_-1756138865964.webp",
     "source/content/4. Connect with people?/Feedback",
     "source/raw_html/raw-html-test.html",
     "source/raw_html",
     "source/quartz/plugins/transformers/toc.ts",
     "source/quartz/plugins/transformers/syntax.ts",
-    "source/quartz/plugins/transformers/roam.ts",
-    "source/quartz/plugins/transformers/oxhugofm.ts"
+    "source/quartz/plugins/transformers/roam.ts"
   ]
 }
