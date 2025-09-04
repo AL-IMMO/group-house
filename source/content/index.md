@@ -8,5 +8,6 @@ aliases:
 - ![[index-1756975604475.webp|500]]
 - See [[Alex]] for more about Alex
 - See [[Simmo]] for more about Simmo
-- [[What we're looking for in a group house]]
+- [[What we're looking for in a group house]] 👈 *I think we should both write a memo about this*
 - [[Why Oxford]]
+- [[Fractal?]]

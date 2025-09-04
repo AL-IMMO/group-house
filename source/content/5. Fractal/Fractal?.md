@@ -1,0 +1,3 @@
+- [[source/content/index|Home Page]]
+- 13th August - "[What is we founded 'Fractal Oxford'?](https://www.alexislearning.me/to-live-well/4.-Connect-with-people/Notes/What-is-we-founded-%22Fractal-Oxford%22)"
+- 25th August - "[Should we do the Fractal Campus accelerator?](https://www.alexislearning.me/to-live-well/4.-Connect-with-people/Notes/Should-we-do-the-Fractal-Campus-accelerator)"
