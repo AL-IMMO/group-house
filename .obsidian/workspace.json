@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/1. Alex/Alex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Alex"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/1. Alex/Alex.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Alex"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/1. Alex/Alex.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Alex"
             }
           }
         ]
@@ -177,14 +177,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "beb0a2d9e8635508",
+  "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
-    "source/content/2. Simmo/Simmo.md",
+    "source/content/files/Alex-1756979039926.webp",
+    "source/content/3. Group House/What Alex is looking for in a group house.md",
+    "source/content/3. Group House/What we're looking for in a group house.md",
     "source/content/index.md",
-    "source/content/4. Oxford/Why Oxford.md",
-    "source/content/5. Fractal/Fractal?.md",
-    "source/content/5. Fractal",
+    "source/content/5. Fractal/Fractal Oxford?.md",
+    "source/content/4. Oxford/Why Oxford?.md",
+    "source/content/2. Simmo/Simmo.md",
     "source/content/1. Alex/Alex.md",
+    "source/content/3. Group House/What Simmo is looking for in a group house.md",
+    "source/quartz/static/og-image.png",
+    "source/quartz/static/Screenshot 2025-09-04 at 11.28.23 AM.png.sb-26e33a34-tA8EQN",
+    "source/quartz/static/Screenshot 2025-09-04 at 11.28.23 AM.png",
+    "source/quartz/static/JPEG image-43B8-94F8-97-0.jpeg",
+    "source/content/5. Fractal",
     "source/docs/plugins/index.md",
     "source/content/3. Group House",
     "source/content/4. Oxford",
@@ -214,16 +222,8 @@
     "source/content/4. Connect with people?/Notes/Alex and Simmo group house, parent page.md",
     "source/content/4. Connect with people?/Notes/Do we make an odd pair? 2025-08-31.md",
     "source/content/3. Create things?/Writings/08. Morning by the pool.md",
-    "source/content/3. Create things?/Writings/07. Travel day.md",
     "source/content/📎 Files/Images/misc/08.-1756623164626.webp",
-    "source/content/3. Create things?/Writings/Writing - vignettes.md",
-    "source/content/4. Connect with people?/Notes/Ship It Week, day 2 retro.md",
-    "source/content/4. Connect with people?/Notes/It's possible that community could obviously be the thing for me (2025-08-28).md",
     "source/content/📎 Files/Images/misc/sasha-tweet-self-identity-cropped.webp",
-    "source/content/📎 Files/Images/misc/Tactically clever, strategically stupid-1756395928273.webp",
-    "Tactically clever, strategically stupid-1756395895373.webp",
-    "source/content/📎 Files/Images/misc/Tactically clever, strategically stupid-1756395306154.webp",
-    "source/content/📎 Files/Voice notes/signal-2025-08-26-230430.mp3",
-    "source/content/4. Connect with people?/Feedback"
+    "source/content/📎 Files/Voice notes/signal-2025-08-26-230430.mp3"
   ]
 }

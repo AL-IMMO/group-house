@@ -1,2 +1,0 @@
-- [[source/content/index|Home Page]]
-- 25th August - "[London vs Oxford for a group house](https://www.alexislearning.me/to-live-well/4.-Connect-with-people/Notes/London-vs-Oxford-for-a-group-house)"
