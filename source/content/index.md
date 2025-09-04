@@ -1,7 +1,4 @@
 ---
-title: My GitHub Pages Notebook!
+title: Alex and Simmo are forming a group house!
 ---
 
-Hello world!
-
-Write some words here!
