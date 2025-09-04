@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/4. Oxford/Why Oxford?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Why Oxford?"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/4. Oxford/Why Oxford?.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Why Oxford?"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/4. Oxford/Why Oxford?.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Why Oxford?"
             }
           }
         ]
@@ -179,11 +179,11 @@
   },
   "active": "beb0a2d9e8635508",
   "lastOpenFiles": [
+    "source/content/index.md",
     "source/content/1. Alex/Alex.md",
     "source/content/files/Alex-1756979039926.webp",
     "source/content/3. Group House/What Alex is looking for in a group house.md",
     "source/content/3. Group House/What we're looking for in a group house.md",
-    "source/content/index.md",
     "source/content/5. Fractal/Fractal Oxford?.md",
     "source/content/4. Oxford/Why Oxford?.md",
     "source/content/2. Simmo/Simmo.md",
