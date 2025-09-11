@@ -26,8 +26,10 @@ title: What does "Fractal-inspired" mean?
 - ![[Fractal-inspired-1757586310905.webp]]
 - 👆 the two of us at [Ship It Week](https://www.alexislearning.me/to-live-well/4.-Connect-with-people/Notes/What-is-Ship-It-Week-(2025-08-20)) 😎
 ## Fractal as a model for rebuilding civic society 
-- Whilst also not getting too heady/dramatic about it → see Evelyn's tweet of "do you want x or do you just want a friend group", lol
+- Whilst also not getting too heady/dramatic about it → see Evelyn's tweet of "do you want x or do you just want a friend group", below
 	- Which tbf I think the Fractal people would endorse. Start small and local.
+- ![[Fractal-inspired-1757588751925.webp]]
+	- 👆 [Tweet link](https://x.com/dreamyweather/status/1962475410198863923)
 
 - Great talk by [Tyler Alterman](https://x.com/tyleralterman) at Fractal → "[Fractal’s emerging civic society](https://fractalnyc.com/fractals-emerging-civic-society)"
 # 3. What does a Fractal-inspired group house look like?
