@@ -1,2 +1,0 @@
-- [[source/content/index|Home Page]]
-- [Twitter](https://x.com/MrSimmoSimpson), [Substack](https://simmosimpson.substack.com/), [Youtube](https://www.youtube.com/@roadtoconnection), [digital scrapbook](https://www.simmosimpson.com/)
