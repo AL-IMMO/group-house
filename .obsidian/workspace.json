@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/1. Main Pages/More about Alex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "551cc057451bf394",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
+              "title": "More about Alex"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/1. Main Pages/More about Alex.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for More about Alex"
             }
           },
           {
@@ -165,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/1. Main Pages/More about Alex.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of More about Alex"
             }
           }
         ]
@@ -192,12 +177,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98f1756b6bcfc34f",
+  "active": "beb0a2d9e8635508",
   "lastOpenFiles": [
+    "source/content/index.md",
+    "source/content/files/More about Alex-1757596511270.webp",
+    "source/content/1. Main Pages/More about Alex.md",
+    "source/content/files/More about Alex-1757596691570.webp",
+    "source/content/files/More about Alex-1757596526146.webp",
+    "source/content/files/More about Alex-1757596517437.webp",
     "source/content/2. Appendix",
     "source/content/2. Appendix/Appendix - where we've lived.md",
-    "source/content/index.md",
-    "source/content/1. Main Pages/More about Alex.md",
     "source/content/3. About The House/The group house vibe.md",
     "source/content/2. About Oxford/Location in Oxford.md",
     "source/content/3. About The House/Fractal-inspired.md",
@@ -215,11 +204,7 @@
     "source/content/files/What we're looking for in a group house-1757583131033.webp",
     "source/content/files/The Vicarage (group house)-1757583956180.webp",
     "source/content/files/What we're looking for in a group house-1757583857316.webp",
-    "source/content/files/The Vicarage (group house)-1757583956184.webp",
-    "source/content/files/The Vicarage (group house)-1757583956181.webp",
-    "source/content/files/The Vicarage (group house)-1757583956182.webp",
     "source/content/1. Main Pages/The Vicarage (group house).md",
-    "source/content/files/The Vicarage (group house)-1757583956183.webp",
     "source/content/Archive",
     "source/quartz/static/Screenshot 2025-09-04 at 11.28.23 AM.png.sb-26e33a34-tA8EQN",
     "source/content/Archive/5. Fractal",
@@ -233,7 +218,6 @@
     "source/content/4. Connect with people?/Notes/Ship It Week log.md",
     "source/content/Quick add/Gathering people's \"Hit Publish\" writings from Ship It Week.md",
     "source/content/🪵 Log per day.md",
-    "source/content/Quick add/ML Episode 2.mp3",
     "Do I want to write anything or should I just go film a youtube video?.md",
     "source/content/Quick add/What could a return to youtube look like?.md",
     "source/content/Quick add/Morning pages or something, 2025-09-02.md",
