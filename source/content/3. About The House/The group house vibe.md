@@ -1,0 +1,6 @@
+- [[Our dream group house]]
+- Communal meals
+- Weekly hosting
+- Authentic Relating, Circling
+- Dance, music
+- Mix of introversion and extroversion. Not too heady, not too woo 

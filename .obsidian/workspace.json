@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/3. About The House/Fractal-inspired.md",
+                "file": "source/content/3. About The House/The group house vibe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fractal-inspired"
+              "title": "The group house vibe"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/3. About The House/Fractal-inspired.md",
+                "file": "source/content/3. About The House/The group house vibe.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Fractal-inspired"
+              "title": "Backlinks for The group house vibe"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/3. About The House/Fractal-inspired.md",
+                "file": "source/content/3. About The House/The group house vibe.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Fractal-inspired"
+              "title": "Outline of The group house vibe"
             }
           }
         ]
@@ -177,12 +177,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98f1756b6bcfc34f",
+  "active": "beb0a2d9e8635508",
   "lastOpenFiles": [
-    "source/content/files/Fractal-inspired-1757588751925.webp",
     "source/content/3. About The House/Our dream group house.md",
-    "source/content/index.md",
+    "source/content/3. About The House/The group house vibe.md",
     "source/content/3. About The House/Fractal-inspired.md",
+    "source/content/files/Fractal-inspired-1757588751925.webp",
+    "source/content/index.md",
     "source/content/1. About Us/More about Alex.md",
     "source/content/2. About Oxford/Location in Oxford.md",
     "source/content/files/Fractal-inspired-1757586310905.webp",
@@ -202,7 +203,6 @@
     "source/content/2. About Oxford/The Vicarage (group house).md",
     "source/content/files/The Vicarage (group house)-1757583956183.webp",
     "source/content/Archive",
-    "source/content/files/Alex-1756979039926.webp",
     "source/quartz/static/Screenshot 2025-09-04 at 11.28.23 AM.png.sb-26e33a34-tA8EQN",
     "source/content/Archive/5. Fractal",
     "source/docs/plugins/index.md",

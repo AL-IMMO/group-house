@@ -9,5 +9,4 @@ title: What we're looking for in a group house ❤️
 ## Location
 - [[Location in Oxford]]
 # The vibe
-- Circling and stuff innit 
-- Dance innit, music, etc. Not too heady, not too woo... 
+- [[The group house vibe]]
