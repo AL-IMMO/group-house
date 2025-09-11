@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/3. About The House/The group house vibe.md",
+                "file": "source/content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The group house vibe"
+              "title": "index"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/3. About The House/The group house vibe.md",
+                "file": "source/content/index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The group house vibe"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/3. About The House/The group house vibe.md",
+                "file": "source/content/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The group house vibe"
+              "title": "Outline of index"
             }
           }
         ]
@@ -177,15 +177,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "beb0a2d9e8635508",
+  "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
-    "source/content/3. About The House/Our dream group house.md",
     "source/content/3. About The House/The group house vibe.md",
-    "source/content/3. About The House/Fractal-inspired.md",
-    "source/content/files/Fractal-inspired-1757588751925.webp",
     "source/content/index.md",
-    "source/content/1. About Us/More about Alex.md",
     "source/content/2. About Oxford/Location in Oxford.md",
+    "source/content/3. About The House/Fractal-inspired.md",
+    "source/content/3. About The House/Other Fractal hubs.md",
+    "source/content/3. About The House/Our dream group house.md",
+    "source/content/files/Fractal-inspired-1757588751925.webp",
+    "source/content/1. About Us/More about Alex.md",
     "source/content/files/Fractal-inspired-1757586310905.webp",
     "source/content/files/Fractal-inspired-1757585808304.webp",
     "source/content/2. About Oxford",
@@ -223,7 +224,6 @@
     "source/content/Quick add/Friendship.md",
     "source/content/Quick add/hashtag symbol.md",
     "source/content/Quick add/Ship It Week, day 3 retro.md",
-    "source/content/4. Connect with people?/Notes/Ship It Week, day 1 retro.md",
-    "source/content/4. Connect with people?/Notes/What am I doing at Ship It Week? 2025-08-30.md"
+    "source/content/4. Connect with people?/Notes/Ship It Week, day 1 retro.md"
   ]
 }
