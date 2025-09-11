@@ -23,6 +23,7 @@
 	- My daily "digital scrapbook" website → https://www.alexislearning.me/to-live-well/
 	- My twitter → https://x.com/alexislearning
 	- My substack → https://substack.com/@alexislearning
-	- My youtube → https://www.youtube.com/@alexiscreatingg
+	- My youtube → https://www.youtube.com/@alexiscreatingg 👈 maybe best way to get an energetic vibe
+		- Most recent vid is "[return to youtube](https://www.youtube.com/watch?v=vgwkHzxPOLY)"
 	- References from friends (wholesome!) → https://www.alexislearning.me/pages/references.html
 - Other memos thinking about this group house [here](https://www.alexislearning.me/to-live-well/4.-Connect-with-people/Notes/Alex-and-Simmo-group-house,-parent-page)
