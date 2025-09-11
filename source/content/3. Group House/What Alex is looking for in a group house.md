@@ -1,5 +1,5 @@
 - [[What we're looking for in a group house]]
-- [[Alex]]
+- [[More about Alex]]
 - Really what I'm looking for is a nice group of friends! I don't think it's much more sophisticated than that are the moment
 - We have vague but alive-feeling plans to form a Fractal-type community, but that feels a bit down the road for me - in the "Maslow's hierarchy of needs" thing, I'd just love to have a solid core group first
 - I'm kind of an ambivert - happy doing stuff on my own, but also wanting to shift into doing less stuff on my own, after a few years of digital nomad-ing

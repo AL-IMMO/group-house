@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/3. Group House/What we're looking for in a group house.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "What we're looking for in a group house"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/3. Group House/What we're looking for in a group house.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for What we're looking for in a group house"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/3. Group House/What we're looking for in a group house.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of What we're looking for in a group house"
             }
           }
         ]
@@ -177,8 +177,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "beb0a2d9e8635508",
+  "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
+    "source/content/files/What we're looking for in a group house-1757583131033.webp",
+    "source/content/3. Group House/What we're looking for in a group house.md",
+    "source/content/index.md",
+    "source/content/2. Simmo/More about Simmo.md",
+    "source/content/1. Alex/More about Alex.md",
+    "source/content/3. Group House/What Alex is looking for in a group house.md",
     "source/content/3. Group House/What Simmo is looking for in a group house.md",
     "source/content/files/The Vicarage (group house)-1757583956180.webp",
     "source/content/files/What we're looking for in a group house-1757583857316.webp",
@@ -187,16 +193,10 @@
     "source/content/files/The Vicarage (group house)-1757583956182.webp",
     "source/content/3. Group House/The Vicarage (group house).md",
     "source/content/files/The Vicarage (group house)-1757583956183.webp",
-    "source/content/3. Group House/What we're looking for in a group house.md",
-    "source/content/files/What we're looking for in a group house-1757583131033.webp",
-    "source/content/index.md",
     "source/content/Archive",
     "source/content/Archive/4. Oxford/Why Oxford?.md",
-    "source/content/1. Alex/Alex.md",
     "source/content/files/Alex-1756979039926.webp",
-    "source/content/3. Group House/What Alex is looking for in a group house.md",
     "source/content/Archive/5. Fractal/Fractal Oxford?.md",
-    "source/content/2. Simmo/Simmo.md",
     "source/quartz/static/og-image.png",
     "source/quartz/static/Screenshot 2025-09-04 at 11.28.23 AM.png.sb-26e33a34-tA8EQN",
     "source/quartz/static/Screenshot 2025-09-04 at 11.28.23 AM.png",
