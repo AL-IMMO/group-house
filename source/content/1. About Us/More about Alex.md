@@ -2,3 +2,5 @@
 - Hello! I'm Alex. I'm 29, from Derbyshire. 
 - Info dump -> here's my [main website](https://www.alexislearning.me/to-live-well/), [twitter](https://x.com/alexislearning), [substack](https://substack.com/@alexislearning?utm_source=user-menu), [youtube](https://www.youtube.com/@alexiscreatingg), [references from friends hehe](https://www.alexislearning.me/pages/references.html)
 - Other memos thinking about this group house [here](https://www.alexislearning.me/to-live-well/4.-Connect-with-people/Notes/Alex-and-Simmo-group-house,-parent-page)
+
+- Will edit this 

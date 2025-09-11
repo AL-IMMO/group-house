@@ -1,11 +1,15 @@
+---
+title: What does "Fractal-inspired" mean?
+---
+
 - [[Our dream group house]]
-# What is Fractal?
+# 1. What is Fractal?
 - Fractal began with [Fractal NYC](https://fractalnyc.com/)
 
 > "In 2021, our small group of friends decided to live, learn, and build together in NYC. 
 > It started as just a ==single apartment with weekly dinners== where people gave 5-minute talks. 
 > And it grew into a ==neighborhood campus=="
-# Why Fractal?
+# 2. Why Fractal?
 ## Power of in-person community
 - We're both believers in both the ==power of living in community==. Simmo is a long-time believer in community and has been nagging me (Alex here, hi!) for years about how it's clearly the best way to live, and I've been convinced of this recently (much to my chagrin at admitting that Simmo was right all along)
 - Simmo 
@@ -26,7 +30,7 @@
 	- Which tbf I think the Fractal people would endorse. Start small and local.
 
 - Great talk by [Tyler Alterman](https://x.com/tyleralterman) at Fractal → "[Fractal’s emerging civic society](https://fractalnyc.com/fractals-emerging-civic-society)"
-# What does it look like for us?
+# 3. What does a Fractal-inspired group house look like?
 1. Our initial plan is a ==centrally located group house to act as a third space== for people to come hang out
 2. From there, we can grow to do things like ==group classes==
 	- See Priya's "[How to Start a School With Your Friends](https://prigoose.substack.com/p/how-to-start-a-university?utm_source=share&utm_medium=android&r=dk8r8&triedRedirect=true)"
@@ -35,7 +39,7 @@
 3. And helping set up ==more group houses== within walking distance
 	- Borrowing an image from Mosaic:
 	- ![[Fractal-inspired-1757585808304.webp]]
-# How Fractal?
+# 4. How do we set up a Fractal-inspired group house?
 1. We're on the waitlist for Tyler & Priya's [Campus Accelerator Program](https://fractalcampus.com/) (was due to start on 1st Sep 2025 but was delayed)
 2. We have friends who have started Fractal-inspired hubs
 	- [Mosaic](https://mosaic-london.super.site/) in London → recommend checking out their site!

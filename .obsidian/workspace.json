@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/3. About The House/Our dream group house.md",
+                "file": "source/content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Our dream group house"
+              "title": "index"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/3. About The House/Our dream group house.md",
+                "file": "source/content/index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Our dream group house"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/3. About The House/Our dream group house.md",
+                "file": "source/content/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Our dream group house"
+              "title": "Outline of index"
             }
           }
         ]
@@ -177,18 +177,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98f1756b6bcfc34f",
+  "active": "beb0a2d9e8635508",
   "lastOpenFiles": [
-    "source/content/2. About Oxford/Location in Oxford.md",
     "source/content/3. About The House/Our dream group house.md",
     "source/content/3. About The House/Fractal-inspired.md",
     "source/content/index.md",
+    "source/content/1. About Us/More about Alex.md",
+    "source/content/2. About Oxford/Location in Oxford.md",
     "source/content/files/Fractal-inspired-1757586310905.webp",
     "source/content/files/Fractal-inspired-1757585808304.webp",
     "source/content/2. About Oxford",
     "source/content/Archive/5. Fractal/Fractal Oxford?.md",
     "source/content/Archive/4. Oxford/Why Oxford?.md",
-    "source/content/1. About Us/More about Alex.md",
     "source/content/1. About Us/More about Simmo.md",
     "source/content/3. Group House/What Simmo is looking for in a group house.md",
     "source/content/3. Group House/What Alex is looking for in a group house.md",
